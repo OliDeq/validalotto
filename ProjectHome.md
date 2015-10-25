@@ -1,0 +1,1 @@
+This little Web app allows users to check their 6/49 lottery results while also helping them resolve some of the statistical analysis on numbers.
